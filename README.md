@@ -1,5 +1,6 @@
 # ClockBean
 A JavaBean for a clock component
+Please reference the pdf file in the root folder for functionality.
 
 ## How to Compile
 1. Open the project with NetBeans
